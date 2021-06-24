@@ -7,8 +7,8 @@ i started this project as my final year project seeing the growth of battle roya
 a multiplayer vr game where user will move the character through portals, shoots and launch(throw) objects at opponents.
 Last one standing wins.
 
-**Progress:**
-character's movement, shooting, launching is complete.
-VR environment with a basic stage map is complete.
-Multiplayer and syncing is incomplete.
+**Progress:**\
+character's movement, shooting, launching is complete.\
+VR environment with a basic stage map is complete.\
+Multiplayer and syncing is incomplete.\
 UI/UX is incomplete.
